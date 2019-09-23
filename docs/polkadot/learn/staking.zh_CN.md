@@ -6,8 +6,7 @@ Polkadot使用NPoS（提名权益证明）作为其选择validator set的机制�
 
 ### 1. Identifying which role you are
 
-In staking, you can be either a [nominator or a validator](#validators-and-nominators). As a nominator,
-you can nominate multiple validator candidates that you trust to help you earn rewards in DOTs. You can take a look at the [nominator guide](http://wiki.polkadot.network/en/latest/polkadot/node/guides/how-to-nominate/) to understand what you are required to do when the mainnet launches. Meanwhile, a validator node is required to be responsive 24/7, perform its expected duties in a timely manner, and avoid any slashable behavior. You can follow our [validator guide](http://wiki.polkadot.network/en/latest/polkadot/node/guides/how-to-validate/) if you want to run a validator in the current testnet.
+In staking，您可以是[nominator 或者 validator](＃validators-and-nominators)。 作为nominator，您可以提名您信任的多个validator候选人，以帮助您赚取DOT奖励。 您可以看一下[提名指南](http://wiki.polkadot.network/en/latest/polkadot/node/guides/how-to-nomination/)，以了解主网启动时您需要做些什么。 同时，validator node需要24/7响应，及时执行其预期的职责，并避免任何可能被惩罚的行为。 如果要在当前的测试网中测试成为validator，可以看看我们的[validator指南](http://wiki.polkadot.network/en/latest/polkadot/node/guides/how-to-validate/)。
 
 ### 2.  Nomination period
 
